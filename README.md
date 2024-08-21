@@ -1,3 +1,6 @@
+This repository contains selected maps and geovisualizations created by me. 
+
+
 # 30DayMapChallenge
 
 #30DayMapChallenge is a map making challenge happening every November. People around the world makes map and share it on Twitter.  
